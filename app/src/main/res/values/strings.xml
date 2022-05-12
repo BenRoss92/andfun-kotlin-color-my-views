@@ -13,6 +13,7 @@ limitations under the License. -->
     <string name="app_name">ColorMyViews</string>
     <string name="box_one">Box one</string>
     <string name="box_two">Box two</string>
+    <string name="box_three">Box three</string>
     <string name="box_four">Box four</string>
     <string name="box_five">Box five</string>
     <string name="button_red">RED</string>
